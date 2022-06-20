@@ -20,8 +20,8 @@ body {
 
 .left-content {
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(200,0.5fr));
-    grid-gap: 2rem;
+    grid-template-columns: repeat(auto-fit,minmax(200px,0.5fr));
+    grid-gap:2rem;
 }
 
 .card {
@@ -47,4 +47,42 @@ body {
 
 .right-content img {
     margin: 2rem;
+}
+
+.abilities {
+    width: 30%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.abilities .group {
+    background-color: #b74555;
+    color: white;
+    padding: 0.5rem;
+    font-size: 12px;
+    border-radius: 8px;
+}
+
+.base-stat {
+    margin-top: 2rem;
+}
+
+.btn-group {
+    display: flex;
+}
+
+.btn-group button {
+    outline: none;
+    border: none;
+    width: 150px;
+    padding: 0.3rem 0;
+    margin: 1rem;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+    background-color: #b74555;
+    border-radius: 8px;
 }
