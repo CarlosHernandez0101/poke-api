@@ -12,5 +12,8 @@ Se incluyeron 3 componentes:
 
 
 
+<img width="1430" alt="Screen Shot 2022-06-20 at 9 56 43" src="https://user-images.githubusercontent.com/82908248/174630001-8a6433ff-0e03-42d0-bb42-24cb9f42da82.png">
+
+
 
 
